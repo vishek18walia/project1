@@ -1,0 +1,58 @@
+/* Set a style for all elements inside the header i.e. Sign Up button, Sign In button, 
+the title "ScriBBler" & the sub-heading below "ScriBBLer" */
+
+.modal-content{
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    color:black;
+}
+.modal-title{
+   
+    margin-left: auto;
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+}                                 
+#notMember{
+    text-align: center;
+    font-family: 'Calibri', fantasy;
+    font-size: 105%;
+}
+#signIn{
+    width: 100%;
+}
+#signUp{
+    width: 100%;
+}
+
+.topButtons {
+ width: 90px;
+ padding: 10px;
+ cursor: pointer;
+ font-weight: 500;
+ font-size: 90%;
+ background: #0000ff;
+ color: #fff;
+ float: right;                  
+ 
+ margin: 10px 10px 0px 0px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-title{
+font-family: 'Satisfy', cursive;
+font-size: 50px;
+color: blue;
+margin: auto;
+text-decoration: none;
+margin: 10px 10px 0px 10px;    
+}
+
+.middleText{
+    font-family: 'Marck Script', cursive;
+    margin-top: 0;
+    margin: 0 0 0px 10px;
+    }
+#pageTitle{
+    color:blue;
+}

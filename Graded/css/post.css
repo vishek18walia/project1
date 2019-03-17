@@ -1,0 +1,93 @@
+.blogTite {
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.blogText {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0% 5% 0% 5%;
+     text-align: justify;
+
+}
+.blogAuthor {
+    padding: 0px 0px 0px 10px;
+    font-family: 'Niconne', cursive;
+    font-size: 30px;
+    margin: 0% 5% 0% 5%;
+}
+.blogContent{
+font-weight: bold;
+    margin: 0% 5% 0% 5%;
+   
+}
+.likeBlogButton{
+    width: 30%;
+    margin: 0% 5% 0% 5%;
+    font-weight: bold;
+}
+
+.form-control1{
+    width: 50%;
+    height: 100px;
+    margin: 0% 5% 0% 5%;
+}
+#likeBlog{
+    width: 25%;
+}
+#addList{
+    margin: 0% 5% 0% 5%;
+}
+#myList{
+   
+    background-color: white;
+    color: black;
+  font-size: 20px;
+    list-style-type:none;
+    display: block;
+     padding:0;
+ 
+}
+li{
+       list-style-position:inside;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    padding-left: 10px;
+        padding-top: 10px;
+    padding-bottom: 10px;
+   
+    
+}
+.comment{
+    background-color: gainsboro;
+     margin: 0% 5% 0% 5%;
+    padding: 20px 30px 20px 20px;
+}
+
+#btnEdit{
+    width: 70px;
+ padding: 5px;
+ cursor: pointer;
+ font-weight: 500;
+ font-size: 90%;
+
+ color: #fff;
+ float: right;                  
+ 
+ margin: 10px 10px 0px 0px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+#btnSave{
+    width: 70px;
+ padding: 5px;
+ cursor: pointer;
+ font-weight: 500;
+ font-size: 90%;
+display:none;
+ color: #fff;
+ float: right;                  
+ 
+ margin: 10px 10px 0px 0px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+/* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
